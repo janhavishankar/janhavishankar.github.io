@@ -165,12 +165,12 @@ University and Department Services
 
 References
 ======
-- Dr. Dominick Salvatore (Co-chair & Mentor) <br>
+- Dr. Dominick Salvatore <br>
 Distinguished Professor of Economics <br>
 Department of Economics, Fordham University <br>
 Email: [salvatore@fordham.edu](mailto:salvatore@fordham.edu) <br>
 
-- Dr. Erick W. Rengifo (Co-chair & Mentor) <br>
+- Dr. Erick W. Rengifo <br>
 Professor of Economics <br>
 Department of Economics, Fordham University <br>
 Email: [rengifomina@fordham.edu](mailto:rengifomina@fordham.edu) <br>
