@@ -158,8 +158,10 @@ Teaching Assistant to Prof. Dominick Salvatore for graduate courses in- <br>
 University and Department Services
 ======
 - At St. Bonaventure University <br>
--- Member, Faculty Search Committee - Finance <br>
--- Conduct sessions on topics in Global Economic Policy <br>
+-- Member, Curriculum Committee, School of Business
+-- Member, Faculty Search Committee - Finance, School of Business <br>
+-- Conduct sessions on topics in Global Economic Policy, School of Business <br>
+-- Freshmen and upper class advising, School of Business
 
 References
 ======
