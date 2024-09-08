@@ -21,12 +21,12 @@ repository               : "janhavishankar/janhavishankar.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "jst.png"
+  name             : "Janhavi Shankar Tripathi"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Assistant Professor of Economics at St. Bonaventure University School of Business"
+  location         : "St. Bonaventure, NY"
+  employer         : ""
   uri              : # URL
   email            : "none@example.org" 
 
