@@ -1,12 +1,32 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Dr. Janhavi Shankar Tripathi is an Assistant Professor of Economics at St. Bonaventure University School of Business.
 
+His research focuses on financial economics, international economics, applied econometrics, and economic development and has been published in Finance Research Letters and the Journal of Policy Modeling. At St. Bonaventure, he has taught courses in financial institutions and markets, macroeconomic principles, and business statistics.
+
+During his PhD studies, he was a research intern at the International Monetary Fund - Monetary & Capital Markets Department in Summer 2022, working on Financial Supervision & Regulation, and at the University of Cambridge Judge Business School - Center for Alternative Finance in Summer 2020, working on Cryptoasset & Blockchain research.
+
+He is also interested in Economic and Business consulting. Before PhD, Dr. Tripathi worked with the Business Performance & Advanced Analytics team at ZS for 2+ years, providing business-relevant analytics and insights to a major US Pharma client. 
+
+Dr. Tripathi holds a PhD in Economics from Fordham University, an MSc in Economics from the Symbiosis School of Economics, and a BSc in Physics (Major), Mathematics, and Statistics from Fergusson College, University of Pune. 
+
+Contact
+======
+Email: [jstripathi@sbu.edu](mailto:jstripathi@sbu.edu) <br> <br>
+Mailing Address: <br>
+St. Bonaventure University <br>
+Swan Business Center 104D <br>
+3261 W State Road <br>
+School of Business | P.O. Box BY <br>
+St. Bonaventure, NY 14778, USA <br>
+
+<!--
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -47,3 +67,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->
