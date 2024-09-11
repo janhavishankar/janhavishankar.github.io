@@ -106,8 +106,8 @@ Working Papers
 
 Works in Progress
 ======
-- **Relationship between Trade and Growth after the Great Lockdown.** (w/ Dominick Salvatore). <br>
 - **The Impact of Fractional Trading on Risk Aversion and Wealth Allocation Behavior for Non-professional Investors under the Prospect Theory Framework.** (w/ Erick W. Rengifo). <br>
+- **Relationship between Trade and Growth after the Great Lockdown.** (w/ Dominick Salvatore). <br>
 - **Crypto Markets Order Book Dynamics.** <br>
 
 Presentations
