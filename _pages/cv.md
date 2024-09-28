@@ -146,8 +146,8 @@ Teaching
 ======
 - At St. Bonaventure University <br>
 -- FIN 322. Financial Institutions and Markets (Spring 2024) <br>
--- ECO 102. Macroeconomic Principles (Fall 2023, Fall 2024) <br>
 -- QMX 211. Introduction to Statistics (Fall 2023, Spring 2024, Fall 2024) <br>
+-- ECO 102. Macroeconomic Principles (Fall 2023, Fall 2024) <br>
 
 - At Fordham University <br>
 Teaching Assistant to Prof. Dominick Salvatore for graduate courses in- <br>
