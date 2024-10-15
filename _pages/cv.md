@@ -20,7 +20,7 @@ Swan Business Center 104D <br>
 School of Business | P.O. Box BY <br>
 St. Bonaventure, NY 14778, USA <br>
 
-Research Interests
+Research Fields
 ======
 Financial Economics, International Economics, Applied Econometrics, Economic Development
 
