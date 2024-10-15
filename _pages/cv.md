@@ -112,6 +112,8 @@ Works in Progress
 
 Presentations
 ======
+-- NYSEA 2024 Conference (Session: Financial Economics), Oct 2024 (scheduled) <br>
+-- NYSEA 2024 Conference (Session: International Economics), Oct 2024 (scheduled) <br>
 -- NYSEA 2023 Conference (Session: Financial Economics), Oct 2023 <br>
 -- NYSEA 2023 Conference (Session: Politics, Trade and Growth), Oct 2023 <br>
 -- FFEA-WPI Finance Conference on Fintech for inclusivity, growth, and the future, Oct 2023 <br>
