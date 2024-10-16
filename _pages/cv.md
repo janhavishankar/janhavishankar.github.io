@@ -48,7 +48,7 @@ Experience
 ======
 * Assistant Professor - Department of Finance and Economics, Aug 2023 - present <br>
   St. Bonaventure University - School of Business, St. Bonaventure, NY, USA <br>
-  -- Courses taught: Financial Institutions and Markets, Business Statistics, and Macroeconomic Principles <br>
+  -- Courses taught: Financial Institutions and Markets, Introduction to Statistics, and Macroeconomic Principles <br>
   
 * Graduate Research and Teaching Assistant to Prof. Dominick Salvatore, Aug 2018 - Jul 2023 <br>
   Fordham University - Graduate School of Arts and Sciences, New York, NY, USA <br>
