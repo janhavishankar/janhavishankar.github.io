@@ -77,18 +77,18 @@ Experience
 
 Awards, Honors, and Grants
 ======
-* Faculty Summer Research Grant, St. Bonaventure University, 2024 <br>
-* Faculty Travel Grant, St. Bonaventure University, 2023 <br>
-* Graduate Student Research Support and Professional Development Grant, Fordham University, 2023 <br>
-* GSAS Teaching Associateship, Fordham University, 2022 - 2023 <br>
-* Mahony Prowse Scholarship, Fordham University, 2020 <br>
-* Dominick Salvatore Summer Research Fellowship, Fordham University, 2020 <br>
-* Omicron Delta Epsilon (ODE) International Honor Society for Economics Membership, Fordham University, 2019 <br>
-* GSAS Graduate Research and Teaching Assistantship, Fordham University, 2018 - 2022 <br>
-* Outstanding achievement award for work on Multi-channel Marketing Analytics (Non-personal Promotion Digital Tactics), ZS-BMS, 2017 <br>
-* OPSCAR award for overall excellence in Business Operations and contributions to the Global Analytics Team, ZS, 2017 <br>
-* Selected among 55 students across India for National Initiative on Undergraduate Sciences (NIUS) - Physics camp 9.1, HBCSE-TIFR, 2012 <br>
-* Selected among 30 students across India for Radio Astronomy Winter School (RAWSc 2011) and won the first prize as a group for work and poster presentation on AstroSat, IUCAA and NCRA-TIFR, 2011 <br>
+* Faculty Summer Research Grant, St. Bonaventure University (2024) <br>
+* Faculty Travel Grant, St. Bonaventure University (2023, 2024) <br>
+* Graduate Student Research Support and Professional Development Grant, Fordham University (2023) <br>
+* GSAS Teaching Associateship, Fordham University (2022 - 2023) <br>
+* Mahony Prowse Scholarship, Fordham University (2020) <br>
+* Dominick Salvatore Summer Research Fellowship, Fordham University (2020) <br>
+* Omicron Delta Epsilon (ODE) International Honor Society for Economics Membership, Fordham University (2019) <br>
+* GSAS Graduate Research and Teaching Assistantship, Fordham University (2018 - 2022) <br>
+* Outstanding achievement award for work on Multi-channel Marketing Analytics (Non-personal Promotion Digital Tactics), ZS-BMS (2017) <br>
+* OPSCAR award for overall excellence in Business Operations and contributions to the Global Analytics Team, ZS (2017) <br>
+* Selected among 55 students across India for National Initiative on Undergraduate Sciences (NIUS) - Physics camp 9.1, HBCSE-TIFR (2012) <br>
+* Selected among 30 students across India for Radio Astronomy Winter School (RAWSc 2011) and won the first prize as a group for work and poster presentation on AstroSat, IUCAA and NCRA-TIFR (2011) <br>
 
 Publications
 ======
@@ -160,9 +160,10 @@ Teaching Assistant to Prof. Dominick Salvatore for graduate courses in- <br>
 University and Department Services
 ======
 - At St. Bonaventure University <br>
--- Member, Curriculum Committee, School of Business <br>
--- Member, Faculty Search Committee - Finance, School of Business <br>
--- Freshmen and upper class advising, School of Business <br>
+-- Member, Curriculum Committee, School of Business (2024 - present) <br>
+-- Member, Faculty Search Committee - Finance, School of Business (2024) <br>
+-- Conduct sessions on Global Economic Policy, School of Business (2023 - present) <br>
+-- Freshmen and upper class advising, School of Business (2023 - present) <br>
 
 References
 ======
