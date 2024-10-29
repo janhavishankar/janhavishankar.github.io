@@ -112,8 +112,8 @@ Works in Progress
 
 Presentations
 ======
--- NYSEA 2024 Conference (Session: Financial Economics), Oct 2024 (scheduled) <br>
--- NYSEA 2024 Conference (Session: International Economics), Oct 2024 (scheduled) <br>
+-- NYSEA 2024 Conference (Session: Financial Economics), Oct 2024 <br>
+-- NYSEA 2024 Conference (Session: International Economics), Oct 2024 <br>
 -- NYSEA 2023 Conference (Session: Financial Economics), Oct 2023 <br>
 -- NYSEA 2023 Conference (Session: Politics, Trade and Growth), Oct 2023 <br>
 -- FFEA-WPI Finance Conference on Fintech for inclusivity, growth, and the future, Oct 2023 <br>
@@ -130,8 +130,8 @@ Presentations
 Discussant, Session Chair, and Referee Activities
 ======
 * Discussant <br>
--- "Regulation and Performance of Rural Banks in a Developing Nation" by Joseph Kwadwo Tuffour & Daniel Akuriba Adongo at the NYSEA 2024 Conference, Oct 2024 (scheduled) <br>
--- "International Trade by Technology Intensity and the Language Aspect" by Lev Vlasenko at the NYSEA 2024 Conference, Oct 2024 (scheduled) <br>
+-- "Regulation and Performance of Rural Banks in a Developing Nation" by Joseph Kwadwo Tuffour & Daniel Akuriba Adongo at the NYSEA 2024 Conference, Oct 2024 <br>
+-- "International Trade by Technology Intensity and the Language Aspect" by Lev Vlasenko at the NYSEA 2024 Conference, Oct 2024 <br>
 -- "Correlation Analysis of Bitcoin and Inflation Indicators" by Joseph Cheng at the NYSEA 2023 Conference, Oct 2023 <br>
 -- "Forecasting Stock Market Liquidity: A LSTM-Based Approach" by Byomkesh Debata, Syed Ahzam Tariq, Gaurav G Petwe, & Asis Kumar Sahu at the World Finance Conference 2023, Aug 2023 <br>
 -- “Adding Bitcoin to a Portfolio: A Cautionary Tale” by Joan Nix & Bruce McNevin at the NYSEA 2022 Conference, Oct 2022 <br>
