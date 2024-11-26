@@ -37,8 +37,9 @@ author:
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  ssrn             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4266395" 
+  ssrn             : #"https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4266395" 
+  researchgate     : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4266395"  # URL
+
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
