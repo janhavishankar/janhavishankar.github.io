@@ -26,7 +26,7 @@ Working Papers
 
 Works in Progress
 ======
-- **FX Markets Order Book Dynamics and Technical Analysis During the Covid-19 Crisis.** (w/ Daniel Svogun) <br>
+- **FX Markets Order Book Dynamics and Technical Analysis During the Covid-19 Crisis.** (w/ Daniel Svogun). <br>
 - **The Impact of Fractional Trading on Risk Aversion and Wealth Allocation Behavior for Non-professional Investors under the Prospect Theory Framework.** (w/ Erick W. Rengifo). <br>
 - **Relationship between Trade and Growth after the Great Lockdown.** (w/ Dominick Salvatore). <br>
 - **Crypto Markets Order Book Dynamics.** <br>
