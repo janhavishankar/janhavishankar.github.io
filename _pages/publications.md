@@ -27,9 +27,9 @@ Working Papers
 
 Works in Progress
 ======
+- **International Trade and Economic Growth in the Era of Geoeconomic Fragmentation.** (w/ Dominick Salvatore). <br>
 - **FX Markets Order Book Dynamics and Technical Analysis During the Covid-19 Crisis.** (w/ Daniel Svogun). <br>
 - **The Impact of Fractional Trading on Risk Aversion and Wealth Allocation Behavior for Non-professional Investors under the Prospect Theory Framework.** (w/ Erick W. Rengifo). <br>
-- **International Trade and Economic Growth in the Era of Geoeconomic Fragmentation.** (w/ Dominick Salvatore). <br>
 - **Crypto Markets Order Book Dynamics.** <br>
 
 Theses and Other Selected Projects
