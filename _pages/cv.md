@@ -110,7 +110,6 @@ Works in Progress
 - **International Trade and Economic Growth in the Era of Geoeconomic Fragmentation.** (w/ Dominick Salvatore). <br>
 - **FX Markets Order Book Dynamics and Technical Analysis During the Covid-19 Crisis.** (w/ Daniel Svogun). <br>
 - **The Impact of Fractional Trading on Risk Aversion and Wealth Allocation Behavior for Non-professional Investors under the Prospect Theory Framework.** (w/ Erick W. Rengifo). <br>
-- **Crypto Markets Order Book Dynamics.** <br>
 
 Presentations
 ======
@@ -152,9 +151,8 @@ Teaching
 ======
 - At St. Bonaventure University <br>
 -- FIN 322. Financial Institutions and Markets (Spring 2024) <br>
--- QMX 212. Statistical Applications for Business (Spring 2025) <br>
 -- QMX 211. Introduction to Statistics (Fall 2023, Spring 2024, Fall 2024) <br>
--- ECO 102. Macroeconomic Principles (Fall 2023, Fall 2024, Spring 2025) <br>
+-- ECO 102. Macroeconomic Principles (Fall 2023, Fall 2024) <br>
 
 - At Fordham University <br>
 Teaching Assistant to Prof. Dominick Salvatore for graduate courses in- <br>
