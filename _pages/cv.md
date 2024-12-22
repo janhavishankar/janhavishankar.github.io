@@ -171,7 +171,7 @@ University and Department Services
 References
 ======
 - Dr. Dominick Salvatore <br>
-Distinguished Professor of Economics <br>
+Distinguished Professor of Economics Emeritus <br>
 Department of Economics, Fordham University <br>
 Email: [salvatore@fordham.edu](mailto:salvatore@fordham.edu) <br>
 
