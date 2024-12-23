@@ -8,7 +8,7 @@ redirect_from:
 ---
 Dr. Janhavi Shankar Tripathi <!--<a href="https://janhavishankar.github.io/_pages/Tripathi_CV.pdf">[CV-PDF]</a>-->
 ======
-Assistant Professor - Department of Finance and Economics, St. Bonaventure University School of Business <br>
+Assistant Professor of Economics, St. Bonaventure University School of Business <br>
 
 Contact
 ======
@@ -46,7 +46,7 @@ Education
 
 Experience
 ======
-* Assistant Professor - Department of Finance and Economics, Aug 2023 - present <br>
+* Assistant Professor of Economics, Aug 2023 - present <br>
   St. Bonaventure University - School of Business, St. Bonaventure, NY, USA <br>
   -- Courses taught: Financial Institutions and Markets, Introduction to Statistics, and Macroeconomic Principles <br>
   
