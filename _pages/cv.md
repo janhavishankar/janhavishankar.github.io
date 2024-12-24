@@ -105,7 +105,7 @@ Working Papers
 - **Bond ETF Performance During the Covid-19 Crisis.** (2022). (w/ Jay Surti). <br>
 - **The Impact of Fractional Trading on Order Book Dynamics.** (2022). (w/ Erick W. Rengifo). Submitted, Under Review. <br>
 
-Works in Progress
+Work in Progress
 ======
 - **International Trade and Economic Growth in the Era of Geoeconomic Fragmentation.** (w/ Dominick Salvatore). <br>
 - **FX Markets Order Book Dynamics and Technical Analysis During the Covid-19 Crisis.** (w/ Daniel Svogun). <br>
