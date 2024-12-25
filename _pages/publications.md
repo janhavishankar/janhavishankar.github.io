@@ -29,7 +29,7 @@ Work in Progress
 ======
 - **International Trade and Economic Growth in the Era of Geoeconomic Fragmentation.** (w/ Dominick Salvatore). <br>
 - **FX Markets Order Book Dynamics and Technical Analysis During the Covid-19 Crisis.** (w/ Daniel Svogun). <br>
-- **Order Book Dynamics in the FinTech Era: Liquidity and Volatility in Regular vs. Extended Market Hours.** (w/ Erick W. Rengifo). <br>
+- **FinTech and Order Book Dynamics: Analyzing Liquidity and Volatility in Regular vs. Extended Market Hours.** (w/ Erick W. Rengifo). <br>
 - **The Impact of Fractional Trading on Risk Aversion and Wealth Allocation Behavior for Non-professional Investors under the Prospect Theory Framework.** (w/ Erick W. Rengifo). <br>
 
 Theses and Other Selected Projects
