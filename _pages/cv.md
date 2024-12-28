@@ -102,7 +102,6 @@ Publications
 Working Papers
 ======
 - **The Impact of Earnings Announcements Before and After Regular Market Hours on Asset Price Dynamics in the FinTech Era.** (2024). (w/ Erick W. Rengifo). Submitted, Under Review. <br>
-
 - **Bond ETF Performance During the Covid-19 Crisis.** (2022). (w/ Jay Surti). <br>
 - **The Impact of Fractional Trading on Order Book Dynamics.** (2022). (w/ Erick W. Rengifo). Submitted, Under Review. <br>
 
