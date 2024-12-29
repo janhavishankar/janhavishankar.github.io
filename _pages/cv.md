@@ -152,8 +152,9 @@ Teaching
 ======
 - At St. Bonaventure University <br>
 -- FIN 322. Financial Institutions and Markets (Spring 2024) <br>
+-- QMX 212. Statistical Applications for Business (Spring 2025) <br>
 -- QMX 211. Introduction to Statistics (Fall 2023, Spring 2024, Fall 2024) <br>
--- ECO 102. Macroeconomic Principles (Fall 2023, Fall 2024) <br>
+-- ECO 102. Macroeconomic Principles (Fall 2023, Fall 2024, Spring 2025) <br>
 
 - At Fordham University <br>
 Teaching Assistant to Prof. Dominick Salvatore for graduate courses in- <br>
@@ -164,16 +165,18 @@ Teaching Assistant to Prof. Dominick Salvatore for graduate courses in- <br>
 University and Department Services
 ======
 - At St. Bonaventure University <br>
+-- Member, Organizing Committee - School of Business Annual Retreat (2024) <br>
 -- Member, Curriculum Committee, School of Business (2024 - present) <br>
 -- Member, Faculty Search Committee - Finance, School of Business (2024) <br>
 -- Conduct sessions on Global Economic Policy, School of Business (2023 - present) <br>
 -- Freshmen and upper class advising, School of Business (2023 - present) <br>
+-- Recommendation Letters
 
 References
 ======
 - Dr. Dominick Salvatore <br>
 Distinguished Professor of Economics Emeritus <br>
-Department of Economics, Fordham University <br>
+Department of Economics, Fordham University <br> 
 Email: [salvatore@fordham.edu](mailto:salvatore@fordham.edu) <br>
 
 - Dr. Erick W. Rengifo <br>
