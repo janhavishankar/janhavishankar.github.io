@@ -11,8 +11,9 @@ redirect_from:
 At St. Bonaventure University
 ======
 -- FIN 322. Financial Institutions and Markets (Spring 2024) <br>
+-- QMX 212. Statistical Applications for Business (Spring 2025) <br>
 -- QMX 211. Introduction to Statistics (Fall 2023, Spring 2024, Fall 2024) <br>
--- ECO 102. Macroeconomic Principles (Fall 2023, Fall 2024) <br>
+-- ECO 102. Macroeconomic Principles (Fall 2023, Fall 2024, Spring 2025) <br>
 
 At Fordham University
 ======
