@@ -112,7 +112,7 @@ Work in Progress
 - **FinTech and Order Book Dynamics: Analyzing Liquidity and Volatility in Regular vs. Extended Market Hours.** (w/ Erick W. Rengifo). <br>
 - **The Impact of Fractional Trading on Risk Aversion and Wealth Allocation Behavior for Non-professional Investors under the Prospect Theory Framework.** (w/ Erick W. Rengifo). <br>
 
-Talks and Presentations
+Presentations
 ======
 -- NYSEA 2024 Conference (Session: Financial Economics), Oct 2024 <br>
 -- NYSEA 2024 Conference (Session: International Economics), Oct 2024 <br>
