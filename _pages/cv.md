@@ -22,7 +22,7 @@ St. Bonaventure, NY 14778, USA <br>
 
 Research Fields
 ======
-Financial Economics, International Business, Applied Econometrics, Economic Development
+Financial Economics, International Economics, Applied Econometrics, Economic Development
 
 Education
 ======
