@@ -100,10 +100,10 @@ Publications
 - **Tripathi, J. S.** (2016). **Trade-Growth Nexus: A Study of G20 Countries.** IOSR J Econ Finance, 7(3), 60-70.  [[DOI](http://www.iosrjournals.org/iosr-jef/papers/Vol7-Issue3/Version-2/G0703026070.pdf)]. <br>
 - Desai, N., & **Tripathi, J. S.** (2016). **Rupee Exchange Rate Dynamics from 1993 to 2011: Study of Factors Driving the Exchange Rate.** IOSR J Econ Finance, 7(2), 19-25.  [[DOI](http://www.iosrjournals.org/iosr-jef/papers/Vol7-Issue2/Version-2/C0702021925.pdf)].
 
-<!--Working Papers
+Working Papers
 ======
 - **FinTech, Fractional Trading, and the Order Book Dynamics: A Study of US Equities Markets.**. (w/ Erick W. Rengifo). Submitted, Under Review. <br>
-- **Bond ETF Performance During the Covid-19 Crisis.**. (w/ Jay Surti). <br> -->
+- **Bond ETF Performance During the Covid-19 Crisis.**. (w/ Jay Surti). <br>
 
 Work in Progress
 ======
@@ -111,7 +111,6 @@ Work in Progress
 - **The Impact of Tariffs on Price Changes and Household Budgets Across Income Levels in the US.** (w/ Erick W. Rengifo) <br>
 - **FX Markets Order Book Dynamics and Technical Analysis During the Covid-19 Crisis.** (w/ Daniel Svogun). <br>
 - **FinTech and Order Book Dynamics: Analyzing Liquidity and Volatility in Regular vs. Extended Market Hours.** (w/ Erick W. Rengifo). <br>
-- **Bond ETF Performance During the Covid-19 Crisis.**. (w/ Jay Surti). <br>
 - **The Impact of Fractional Trading on Risk Aversion and Wealth Allocation Behavior for Non-professional Investors under the Prospect Theory Framework.** (w/ Erick W. Rengifo). <br>
 
 Presentations
