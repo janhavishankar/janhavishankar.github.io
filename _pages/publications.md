@@ -5,15 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publications
+Peer-reviewed Journal Articles
 ======
 - **Tripathi, J. S.**, & Rengifo, E. W. (2025). **The Impact of Earnings Announcements Before and After Regular Market Hours on Asset Price Dynamics in the Fintech Era.** Journal of Risk and Financial Management, 18(2), 75. [[DOI](https://www.mdpi.com/1911-8074/18/2/75)]. [[SSRN_WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5071234)]. <br>
 - Salvatore, D., & **Tripathi, J. S.** (2024). **Relationship between Trade and Growth for Developing Countries at Different Levels of Income.** Journal of Policy Modeling, 46(4), 813-822. [[DOI](https://www.sciencedirect.com/science/article/pii/S016189382400070X?via%3Dihub)]. [[SSRN_WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4964274)]. <br>
-- **Tripathi, J. S.**, & Rengifo, E. W. (2024). **The Impact of Fractional Trading on Order Book Dynamics.** Proceedings of the New York State Economics Association, 16, 95-104. [[DOI](https://www.nyseconomicsassociation.org/wp-content/uploads/2024/12/Final_Vol_NYSEA_Proceedings_2023.pdf#page=98)]. <br>
 - **Tripathi, J. S.** (2023). **Trade-Growth Nexus: A Study of G20 Countries using Simultaneous Equations Model with Dynamic Policy Simulations.** Journal of Policy Modeling, 45(4), 806-816. [[DOI](https://www.sciencedirect.com/science/article/pii/S0161893823000662)]. [[SSRN_WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4595875)]. <br>
 - **Tripathi, J. S.**, & Rengifo, E. W. (2023). **The Impact of Fractional Trading on Risk Aversion for Non-professional Investors.** Finance Research Letters, 52, 103547. [[DOI](https://www.sciencedirect.com/science/article/pii/S1544612322007231?via%3Dihub)]. [[SSRN_WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4208358)]. <br>
 - **Tripathi, J. S.** (2016). **Trade-Growth Nexus: A Study of G20 Countries.** IOSR J Econ Finance, 7(3), 60-70.  [[DOI](https://www.iosrjournals.org/iosr-jef/papers/Vol7-Issue3/Version-2/G0703026070.pdf)]. <br>
 - Desai, N., & **Tripathi, J. S.** (2016). **Rupee Exchange Rate Dynamics from 1993 to 2011: Study of Factors Driving the Exchange Rate.** IOSR J Econ Finance, 7(2), 19-25.  [[DOI](https://www.iosrjournals.org/iosr-jef/papers/Vol7-Issue2/Version-2/C0702021925.pdf)]. <br>
+
+Peer-reviewed Conference Proceedings
+======
+- **Tripathi, J. S.**, & Rengifo, E. W. (2024). **The Impact of Fractional Trading on Order Book Dynamics.** Proceedings of the New York State Economics Association, 16, 95-104. [[DOI](https://www.nyseconomicsassociation.org/wp-content/uploads/2024/12/Final_Vol_NYSEA_Proceedings_2023.pdf#page=98)]. <br>
 
 Working Papers
 ======
