@@ -82,7 +82,7 @@ Grants and Professional Services
 * SBU Faculty Travel Grant, St. Bonaventure University (2023, 2024) <br>
 * Fordham Graduate Student Research Support and Professional Development Grant, Fordham University (2023) <br>
 
-Awards, Honors, and Grants
+Awards, Honors, and Fellowships
 ======
 * GSAS Teaching Fellowship, Fordham University (2022 - 2023) <br>
 * Mahony Prowse Scholarship, Fordham University (2020) <br>
