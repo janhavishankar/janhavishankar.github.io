@@ -108,7 +108,7 @@ Working Papers
 ======
 - **FinTech, Fractional Trading and the Order Book Dynamics: A Study of US Equities Markets.**. (w/ Erick W. Rengifo). Submitted, Under Review. <br>
 - **International Trade and Economic Growth in the Era of Geoeconomic Fragmentation.** (w/ Dominick Salvatore). <br>
-- **Bond ETF Performance During the Covid-19 Crisis.**. (w/ Jay Surti). <br>
+- **Bond ETF Performance During the Covid-19 Crisis.** (w/ Jay Surti). <br>
 
 Work in Progress
 ======
