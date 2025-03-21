@@ -8,7 +8,7 @@ redirect_from:
 ---
 Dr. Janhavi Shankar Tripathi <!--<a href="https://janhavishankar.github.io/_pages/Tripathi_CV.pdf">[CV-PDF]</a>-->
 ======
-Economist | Assistant Professor at St. Bonaventure University School of Business <br>
+Economist | Assistant Professor at St. Bonaventure University, School of Business <br>
 
 Contact
 ======
