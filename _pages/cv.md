@@ -47,7 +47,7 @@ Education
 Experience
 ======
 * Assistant Professor of Economics, Aug 2023 - present <br>
-  St. Bonaventure University School of Business, St. Bonaventure, NY, USA <br>
+  St. Bonaventure University - School of Business, St. Bonaventure, NY, USA <br>
   -- Courses taught: FIN 322. Financial Institutions and Markets, QMX 212. Statistical Applications for Business, QMX 211. Introduction to Statistics, ECO 102. Macroeconomic Principles <br>
   
 * Graduate Research and Teaching Assistant to Prof. Dominick Salvatore, Aug 2018 - Jul 2023 <br>
