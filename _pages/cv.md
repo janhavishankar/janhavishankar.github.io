@@ -84,11 +84,11 @@ Grants and Professional Services
 
 Awards, Honors, and Fellowships
 ======
-* GSAS Teaching Fellowship, Fordham University (2022 - 2023) <br>
+* Fordham GSAS Teaching Fellowship, Fordham University (2022 - 2023) <br>
 * Mahony Prowse Scholarship, Fordham University (2020) <br>
 * Dominick Salvatore Summer Research Fellowship, Fordham University (2020) <br>
 * Omicron Delta Epsilon (ODE) International Honor Society for Economics Membership, Fordham University (2019) <br>
-* GSAS Graduate Research and Teaching Assistantship, Fordham University (2018 - 2022) <br>
+* Fordham GSAS Graduate Research and Teaching Assistantship, Fordham University (2018 - 2022) <br>
 * Outstanding achievement award for work on Multi-channel Marketing Analytics (Non-personal Promotion Digital Tactics), ZS-BMS (2017) <br>
 * OPSCAR award for overall excellence in Business Operations and contributions to the Global Analytics Team, ZS (2017) <br>
 * Selected among 55 students across India for National Initiative on Undergraduate Sciences (NIUS) - Physics camp 9.1, HBCSE-TIFR (2012) <br>
