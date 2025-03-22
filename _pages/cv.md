@@ -8,7 +8,7 @@ redirect_from:
 ---
 Dr. Janhavi Shankar Tripathi <!--<a href="https://janhavishankar.github.io/_pages/Tripathi_CV.pdf">[CV-PDF]</a>-->
 ======
-Assistant Professor of Economics at St. Bonaventure University School of Business <br>
+Economist | Consultant | Assistant Professor at St. Bonaventure U <br>
 
 Contact
 ======
@@ -46,7 +46,7 @@ Education
 
 Experience
 ======
-* Assistant Professor of Economics, Aug 2023 - present <br>
+* Assistant Professor - Department of Finance and Economics, Aug 2023 - present <br>
   St. Bonaventure University - School of Business, St. Bonaventure, NY, USA <br>
   -- Courses taught: FIN 322. Financial Institutions and Markets, QMX 212. Statistical Applications for Business, QMX 211. Introduction to Statistics, ECO 102. Macroeconomic Principles <br>
   
