@@ -84,7 +84,7 @@ Grants and Professional Services
 
 Awards, Honors, and Fellowships
 ======
-* Fordham GSAS Teaching Fellowship, Fordham University (2022 - 2023) <br>
+* Fordham GSAS Teaching Associateship, Fordham University (2022 - 2023) <br>
 * Mahony Prowse Scholarship, Fordham University (2020) <br>
 * Dominick Salvatore Summer Research Fellowship, Fordham University (2020) <br>
 * Omicron Delta Epsilon (ODE) International Honor Society for Economics Membership, Fordham University (2019) <br>
