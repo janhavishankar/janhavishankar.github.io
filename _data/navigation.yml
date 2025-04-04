@@ -17,11 +17,11 @@ main:
   #- title: "Portfolio"
   #  url: /portfolio/
         
-  #- title: "Global Economy and Business"
-  #  url: /geb/
-    
-  - title: "links"
+  - title: "Global Economy and Business"
     url: /geb/
+    
+  - title: "CV"
+    url: /cv/
     
   #- title: "Guide"
   #  url: /markdown/
