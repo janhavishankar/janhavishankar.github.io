@@ -8,7 +8,7 @@ redirect_from:
 ---
 Data Sources and Reports
 ======
-Global
+* Global <br>
 -- WDI (World Development Indicators) [[link](https://databank.worldbank.org/source/world-development-indicators)] <br>
 -- OECD (Organisation of Economic Cooperation) [[link](https://databank.worldbank.org/source/world-development-indicators)] <br> 
 -- IMF (International Monetary Fund) [[link](https://databank.worldbank.org/source/world-development-indicators)] <br> 
@@ -16,7 +16,7 @@ Global
 -- BIS (Bank for International Settlements <br>
 -- UNCTAD (United Nations Conference on Trade and Development) <br>
 
-US
+* US <br>
 -- US BLS (Bureau of Labor Statistics) [[link](https://databank.worldbank.org/source/world-development-indicators)] <br> 
 -- US BEA (Bureau of Economic Analysis) <br>
 -- US Federal Reserve SCF (Survey of Consumer Finances) <br>
@@ -24,7 +24,7 @@ US
 -- US FRED (Federal Reserve Economic Data) <br>
 -- US Fed (Federal Reserve Board <br>
 
-Global Macro
+* Global Macro Reports <br>
 -- Bloomberg <br>
 -- Bank of America <br>
 -- Morgan Stanley <br>
