@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Global Economy and Business"
-permalink: //
+permalink: /geb/
 author_profile: true
 redirect_from:
   - /resume
