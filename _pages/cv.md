@@ -119,7 +119,7 @@ Work in Progress
 
 Talks and Presentations
 ======
-- ITFA 2025 Conference on Navigating the New Global Economy: States, Markets, and Businesses Amid Geopolitical Disruption, May 2025 <br>
+- ITFA 2025 Conference on Navigating the New Global Economy: States, Markets, and Businesses Amid Geopolitical Disruption, May 2025 (scheduled) <br>
 - NYSEA 2024 Conference (Session: Financial Economics), Oct 2024 <br>
 - NYSEA 2024 Conference (Session: International Economics), Oct 2024 <br>
 - NYSEA 2023 Conference (Session: Financial Economics), Oct 2023 <br>
