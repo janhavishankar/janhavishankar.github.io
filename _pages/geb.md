@@ -8,5 +8,7 @@ redirect_from:
 ---
 Data Sources
 ======
-World Development Indicators [[link](https://databank.worldbank.org/source/world-development-indicators)].
+-- WDI (World Development Indicators) [[link](https://databank.worldbank.org/source/world-development-indicators)] <br>
+-- BLS (Bureau of Labor Statistics) [[link](https://databank.worldbank.org/source/world-development-indicators)] <br> 
+
 
