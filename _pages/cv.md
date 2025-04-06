@@ -172,7 +172,7 @@ University and Department Services
 -- Member, Curriculum Committee, School of Business (2024 - present) <br>
 -- Member, Faculty Search Committee - Finance, School of Business (2024) <br>
 -- Conduct sessions on Global Economy and Business, School of Business (2023 - present) <br>
--- Freshmen and upper class advising, School of Business (2023 - present) <br>
+-- Freshmen and upper-class advising, School of Business (2023 - present) <br>
 -- Recommendation Letters
 
 <!-- References
