@@ -93,6 +93,7 @@ Awards, Honors, and Fellowships
 
 Publications
 ======
+- **FinTech, Fractional Trading and the Order Book Dynamics: A Study of US Equities Markets.** (w/ Erick W. Rengifo). FinTech, forthcoming. [[SSRN_WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4259584)]. <br>
 - **Tripathi, J. S.**, & Rengifo, E. W. (2025). **The Impact of Earnings Announcements Before and After Regular Market Hours on Asset Price Dynamics in the Fintech Era.** Journal of Risk and Financial Management, 18(2), 75. [[DOI](https://www.mdpi.com/1911-8074/18/2/75)]. <br>
 - Salvatore, D., & **Tripathi, J. S.** (2024). **Relationship between Trade and Growth for Developing Countries at Different Levels of Income.** Journal of Policy Modeling, 46(4), 813-822. [[DOI](https://www.sciencedirect.com/science/article/pii/S016189382400070X?via%3Dihub)]. <br>
 - **Tripathi, J.S.**, & Rengifo, E.W. (2024). **The Impact of Fractional Trading on Order Book Dynamics.** Proceedings of the New York State Economics Association, 16, 95-104. [[DOI](https://www.nyseconomicsassociation.org/wp-content/uploads/2024/12/Final_Vol_NYSEA_Proceedings_2023.pdf#page=98)]. <br>
@@ -103,7 +104,6 @@ Publications
 
 Working Papers
 ======
-- **FinTech, Fractional Trading and the Order Book Dynamics: A Study of US Equities Markets.**. (w/ Erick W. Rengifo). Submitted, Under Review. <br>
 - **International Trade and Economic Growth in the Era of Geoeconomic Fragmentation.** (w/ Dominick Salvatore). Submitted, Under Review. <br>
 - **Bond ETF Performance During the Covid-19 Crisis.** (w/ Jay Surti). <br>
 
