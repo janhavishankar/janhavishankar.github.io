@@ -154,7 +154,7 @@ Discussant, Session Chair, and Referee Activities
 Teaching
 ======
 - At St. Bonaventure University <br>
--- MBA 696IE. International Economics: A Global Business Perspective (Summer 2025 - scheduled) <br>
+-- MBA 696IE. International Economics: A Global Business Perspective (Summer 2025) <br>
 -- FIN 322. Financial Institutions and Markets (Spring 2024) <br>
 -- FIN 321. Money and Banking (Fall 2025 - scheduled) <br>
 -- QMX 212. Statistical Applications for Business (Spring 2025) <br>
