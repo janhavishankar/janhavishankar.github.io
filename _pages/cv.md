@@ -171,7 +171,7 @@ Teaching Assistant to Prof. Dominick Salvatore for graduate courses in- <br>
 University and Department Services
 ======
 - At St. Bonaventure University <br>
--- Member, Organizing Committee - School of Business Annual Retreat (2024) <br>
+-- Member, Organizing Committee - School of Business Annual Retreat (2024 - present) <br>
 -- Member, Curriculum Committee, School of Business (2024 - present) <br>
 -- Member, Faculty Search Committee - Finance, School of Business (2024) <br>
 -- Conduct sessions on Global Economy and Business, School of Business (2023 - present) <br>
