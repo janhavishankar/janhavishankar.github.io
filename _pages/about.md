@@ -6,17 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Dr. Janhavi Shankar Tripathi is an Economist and Assistant Professor in the Department of Finance and Economics at St. Bonaventure University School of Business.
+Dr. Janhavi Shankar Tripathi is an Economist and Assistant Professor in the Department of Finance and Economics at the School of Business, St. Bonaventure University. His research interests span financial economics, international economics, applied econometrics, and economic development. His work has been published in leading journals such as Finance Research Letters, Journal of Policy Modeling, Journal of Risk and Financial Management, and FinTech.
 
-His research focuses on financial economics, international economics, applied econometrics, and economic development. His work has been published in Finance Research Letters, Journal of Policy Modeling, Journal of Risk and Financial Management, and FinTech. 
+At St. Bonaventure, Dr. Tripathi teaches courses in international economics and business, financial institutions and markets, money and banking, macroeconomic principles, and business statistics.
 
-At St. Bonaventure, he has taught courses in international economics and business, financial institutions and markets, money and banking, macroeconomic principles, and business statistics.
+During his doctoral studies, he held research positions at the International Monetary Fund (IMF), where he worked on financial supervision and regulation in the Monetary and Capital Markets Department (Summer 2022), and at the Centre for Alternative Finance, Cambridge Judge Business School, where he contributed to research on cryptoassets and blockchain (Summer 2020).
 
-During his PhD studies, he was a research intern at the International Monetary Fund - Monetary & Capital Markets Department in Summer 2022, working on Financial Supervision & Regulation, and at the University of Cambridge Judge Business School - Center for Alternative Finance in Summer 2020, working on Cryptoasset & Blockchain research.
+Dr. Tripathi also has experience in economic and business consulting. Prior to his PhD, he worked in the Business Performance & Advanced Analytics team at ZS Associates, providing strategic analytics and insights to a major U.S. pharma client. 
 
-He is also interested in Economic and Business consulting. Before PhD, Dr. Tripathi worked with the Business Performance & Advanced Analytics team at ZS for 2+ years, providing business-relevant analytics and insights to a major US Pharma client. 
-
-Dr. Tripathi holds a PhD in Economics from Fordham University, an MSc in Economics from the Symbiosis School of Economics, and a BSc in Physics (Major), Mathematics, and Statistics from Fergusson College, University of Pune. 
+He holds a PhD in Economics from Fordham University, an MSc in Economics from the Symbiosis School of Economics, and a BSc in Physics (major), Mathematics, and Statistics from Fergusson College, University of Pune. 
 
 Contact
 ======
