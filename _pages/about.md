@@ -10,9 +10,9 @@ Dr. Janhavi Shankar Tripathi is an Economist and Assistant Professor in the Depa
 
 At St. Bonaventure, Dr. Tripathi teaches courses in international economics and business, financial institutions and markets, money and banking, macroeconomic principles, and business statistics.
 
-During his doctoral studies, he held research positions at the International Monetary Fund (IMF), where he worked on financial supervision and regulation in the Monetary and Capital Markets Department (Summer 2022), and at the Centre for Alternative Finance, Cambridge Judge Business School, where he contributed to research on cryptoassets and blockchain (Summer 2020).
+During his doctoral studies, he held research positions at the International Monetary Fund, where he worked on financial supervision and regulation in the Monetary and Capital Markets Department (Summer 2022), and at the Centre for Alternative Finance, Cambridge Judge Business School, where he contributed to research on cryptoassets and blockchain (Summer 2020).
 
-Dr. Tripathi also has experience in economic and business consulting. Prior to his PhD, he worked in the Business Performance & Advanced Analytics team at ZS Associates, providing strategic analytics and insights to a major U.S. pharma client. 
+Dr. Tripathi also has experience in economic and business consulting. Prior to his PhD, he worked in the Business Performance & Advanced Analytics team at ZS, providing strategic analytics and insights to a major US pharma client. 
 
 He holds a PhD in Economics from Fordham University, an MSc in Economics from the Symbiosis School of Economics, and a BSc in Physics (major), Mathematics, and Statistics from Fergusson College, University of Pune. 
 
