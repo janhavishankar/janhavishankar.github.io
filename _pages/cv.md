@@ -116,7 +116,7 @@ Work in Progress
 
 Talks and Presentations
 ======
-- ITFA 2025 Conference (Session: Trade and Geopolitics), May 2025 (scheduled) <br>
+- ITFA 2025 Conference (Session: Trade and Geopolitics), May 2025 <br>
 - NYSEA 2024 Conference (Session: Financial Economics), Oct 2024 <br>
 - NYSEA 2024 Conference (Session: International Economics), Oct 2024 <br>
 - NYSEA 2023 Conference (Session: Financial Economics), Oct 2023 <br>
@@ -135,7 +135,7 @@ Talks and Presentations
 Discussant, Session Chair, and Referee Activities
 ======
 * Discussant <br>
--- “Beyond the Balance: An Intertemporal Perspective on the Current Accounts of OECD Countries” by Aleksandar Stojkov, Thierry Warin, & Nikola Tuneski at the ITFA 2025 Conference, May 2025 (scheduled) <br>
+-- “Beyond the Balance: An Intertemporal Perspective on the Current Accounts of OECD Countries” by Aleksandar Stojkov, Thierry Warin, & Nikola Tuneski at the ITFA 2025 Conference, May 2025 <br>
 -- "Regulation and Performance of Rural Banks in a Developing Nation" by Joseph Kwadwo Tuffour & Daniel Akuriba Adongo at the NYSEA 2024 Conference, Oct 2024 <br>
 -- "International Trade by Technology Intensity and the Language Aspect" by Lev Vlasenko at the NYSEA 2024 Conference, Oct 2024 <br>
 -- "Correlation Analysis of Bitcoin and Inflation Indicators" by Joseph Cheng at the NYSEA 2023 Conference, Oct 2023 <br>
@@ -149,6 +149,7 @@ Discussant, Session Chair, and Referee Activities
 -- "Market Microstructure" session at the World Finance Conference 2023, Aug 2023 <br>
 
 * Referee Services <br>
+-- Journal of Risk and Financial Management <br>
 -- International Review of Financial Analysis <br>
 -- Finance Research Letters <br>
 
