@@ -105,7 +105,7 @@ Publications
 Working Papers
 ======
 - **International Trade and Economic Growth in the Era of Geoeconomic Fragmentation.** (w/ Dominick Salvatore). Submitted, Under Review. <br>
-- **The Impact of Tariffs on Inflation and Household Budgets Across Income Levels in the US.** (w/ Erick W. Rengifo). <br>
+- **The Impact of Tariffs on Inflation and Household Budgets Across Income Levels and Regions in the US.** (w/ Erick W. Rengifo). <br>
 
 Work in Progress
 ======
