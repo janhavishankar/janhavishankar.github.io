@@ -162,7 +162,8 @@ Teaching
 -- FIN 321. Money and Banking (Fall 2025 - scheduled) <br>
 -- QMX 212. Statistical Applications for Business (Spring 2025) <br>
 -- QMX 211. Introduction to Statistics (Fall 2023, Spring 2024, Fall 2024) <br>
--- ECO 102. Macroeconomic Principles (Fall 2023, Fall 2024, Spring 2025, Fall 2025 - scheduled) <br>
+-- ECO 102. Macroeconomic Principles (Fall 2023, Fall 2024, Spring 2025) <br>
+-- ECO 101. Microeconomic Principles (Fall 2025 - scheduled) <br>
 
 - At Fordham University <br>
 Teaching Assistant to Prof. Dominick Salvatore for graduate courses in- <br>
