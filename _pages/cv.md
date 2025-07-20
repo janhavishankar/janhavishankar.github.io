@@ -181,6 +181,7 @@ University and Department Services
 -- Freshmen and upper-class advising, School of Business (2023 - present) <br>
 -- Recommendation Letters
 
+<!--
 References
 ======
 - Dr. Dominick Salvatore <br>
@@ -212,7 +213,7 @@ Email: [ajofrancis@fordham.edu](mailto:ajofrancis@fordham.edu) <br>
 Division Chief - Financial Supervision and Regulation <br>
 Monetary & Capital Markets Department, International Monetary Fund <br>
 Email: [JSurti@imf.org](mailto:JSurti@imf.org) <br>
-
+-->
 
 <!--
 {% include base_path %}
