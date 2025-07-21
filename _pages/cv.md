@@ -105,7 +105,7 @@ Publications
 
 Working Papers
 ======
-- **The Impact of Tariffs on Inflation and Household Budgets Across Income Levels in the US.** (w/ Erick W. Rengifo). <br>
+- **The Impact of Tariffs on Inflation and Household Budgets Across Income Levels in the US.** (w/ Erick W. Rengifo). <br> 
 
 Work in Progress
 ======
