@@ -7,7 +7,7 @@ author_profile: true
 
 Publications
 ======
-- Salvatore, D., & **Tripathi, J. S.** (2025). **International Trade and Economic Growth in the Era of Geoeconomic Fragmentation.** Journal of Policy Modeling, forthcoming. [[DOI](https://www.sciencedirect.com/science/article/abs/pii/S0161893825000705?via%3Dihub)]. [[SSRN_WP](http://ssrn.com/abstract=5257497)]. <br>
+- Salvatore, D., & **Tripathi, J. S.** (2025). **International Trade and Economic Growth in the Era of Geoeconomic Fragmentation.** Journal of Policy Modeling, 47(4), 862-879. [[DOI](https://www.sciencedirect.com/science/article/pii/S0161893825000705?via%3Dihub)]. [[SSRN_WP](http://ssrn.com/abstract=5257497)]. <br>
 - **Tripathi, J. S.**, & Rengifo, E. W. (2025). **FinTech, Fractional Trading, and Order Book Dynamics: A Study of US Equities Markets.** FinTech, 4(2), 16. [[DOI](https://doi.org/10.3390/fintech4020016)]. [[SSRN_WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4259584)]. <br> 
 - **Tripathi, J. S.**, & Rengifo, E. W. (2025). **The Impact of Earnings Announcements Before and After Regular Market Hours on Asset Price Dynamics in the Fintech Era.** Journal of Risk and Financial Management, 18(2), 75. [[DOI](https://www.mdpi.com/1911-8074/18/2/75)]. [[SSRN_WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5071234)]. <br>
 - Salvatore, D., & **Tripathi, J. S.** (2024). **Relationship between Trade and Growth for Developing Countries at Different Levels of Income.** Journal of Policy Modeling, 46(4), 813-822. [[DOI](https://www.sciencedirect.com/science/article/pii/S016189382400070X?via%3Dihub)]. [[SSRN_WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4964274)]. <br>
