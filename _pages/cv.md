@@ -113,6 +113,7 @@ Work in Progress
 - **FX Markets Order Book Dynamics and Technical Analysis During the Covid-19 Crisis.** (w/ Daniel Svogun). <br>
 - **FinTech and Order Book Dynamics: Analyzing Liquidity and Volatility in Regular vs. Extended Market Hours.** (w/ Erick W. Rengifo). <br>
 - **Bond ETF Performance During the Covid-19 Crisis.** (w/ Jay Surti). <br>
+- **ESG and Its Impact on Investor Sentiment.** (w/ Michael Gallagher). <br>
 - **The Impact of Fractional Trading on Risk Aversion and Wealth Allocation Behavior for Non-professional Investors under the Prospect Theory Framework.** (w/ Erick W. Rengifo). <br>
 
 Talks and Presentations
