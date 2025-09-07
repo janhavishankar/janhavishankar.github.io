@@ -8,7 +8,7 @@ redirect_from:
 ---
 Dr. Janhavi Shankar Tripathi is an Economist and Assistant Professor in the Department of Finance and Economics at St. Bonaventure University School of Business. His research focuses on financial economics, international economics, applied econometrics, and economic development. His work has been published in leading journals such as Finance Research Letters, Journal of Policy Modeling, Journal of Risk and Financial Management, and FinTech. He serves on the Board of Directors of the International Trade and Finance Association and the New York State Economics Association.
 
-At St. Bonaventure, Dr. Tripathi teaches courses in international economics and business, financial institutions and markets, money and banking, macroeconomic principles, microeconomic principles, and business statistics.
+At St. Bonaventure, Dr. Tripathi has taught courses in international economics and business, financial institutions and markets, money and banking, macro- and microeconomic principles, and business statistics.
 
 During his doctoral studies, he held research positions at the International Monetary Fund, where he worked on financial supervision and regulation in the Monetary and Capital Markets Department (Summer 2022), and at the Centre for Alternative Finance, Cambridge Judge Business School, where he contributed to research on cryptoassets and blockchain (Summer 2020).
 
