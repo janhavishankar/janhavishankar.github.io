@@ -177,11 +177,12 @@ Teaching Assistant to Prof. Dominick Salvatore for graduate courses in- <br>
 University and Department Services
 ======
 - At St. Bonaventure University <br>
--- Member, Institutional Review Board Committee (2025 - present) <br>
+-- Member, Institutional Review Board (2025 - present) <br>
+-- Member, Constitution Committee (2025 - present) <br>
 -- Member, Organizing Committee - School of Business Annual Retreat (2024 - present) <br>
 -- Member, Curriculum Committee, School of Business (2024 - present) <br>
--- Member, Faculty Search Committee - Finance, School of Business (2024) <br>
--- Conduct sessions on Global Economy and Business, School of Business (2023 - present) <br>
+-- Member, Faculty Search Committee - Finance, School of Business (2024, 2025) <br>
+-- Founder and Faculty Coordinator - Global Economy and Business Forum (2023 - present) <br>
 -- Freshmen and upper-class advising, School of Business (2023 - present) <br>
 -- Recommendation Letters
 
