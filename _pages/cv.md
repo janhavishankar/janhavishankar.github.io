@@ -118,6 +118,7 @@ Work in Progress
 
 Talks and Presentations
 ======
+- NYSEA 2025 Conference (Session: International Economics and Finance), Nov 2025 <br>
 - ITFA 2025 Conference (Session: Trade and Geopolitics), May 2025 <br>
 - NYSEA 2024 Conference (Session: Financial Economics), Oct 2024 <br>
 - NYSEA 2024 Conference (Session: International Economics), Oct 2024 <br>
