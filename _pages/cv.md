@@ -168,9 +168,9 @@ Teaching
 -- MBA 696IE. International Economics: A Global Business Perspective (Summer 2025) <br>
 -- FIN 322. Financial Institutions and Markets (Spring 2024) <br>
 -- FIN 321. Money and Banking (Fall 2025) <br>
--- QMX 212. Statistical Applications for Business (Spring 2025) <br>
+-- QMX 212. Statistical Applications for Business (Spring 2025, Spring 2026) <br>
 -- QMX 211. Introduction to Statistics (Fall 2023, Spring 2024, Fall 2024) <br>
--- ECO 102. Macroeconomic Principles (Fall 2023, Fall 2024, Spring 2025) <br>
+-- ECO 102. Macroeconomic Principles (Fall 2023, Fall 2024, Spring 2025, Spring 2026) <br>
 -- ECO 101. Microeconomic Principles (Fall 2025) <br>
 
 - At Fordham University <br>
