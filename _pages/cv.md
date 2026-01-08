@@ -188,7 +188,7 @@ University and Department Services
 -- Member, Organizing Committee - School of Business Annual Retreat (2024 - present) <br>
 -- Member, Curriculum Committee, School of Business (2024 - present) <br>
 -- Member, Faculty Search Committee - Finance, School of Business (2024, 2025) <br>
--- Founder and Director, Global Economy and Business Forum (2023 - present) <br>
+-- Founder-Director, Global Economy and Business Forum (2023 - present) <br>
 -- Advise freshmen and upper-class students; write recommendation letters for academic and professional opportunities, School of Business (2023 - present) <br>
 
 <!--
