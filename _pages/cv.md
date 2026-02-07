@@ -191,7 +191,7 @@ University and Department Services
 -- Founder-Director, Global Economy and Business Forum (2023 - present) <br>
 -- Advise freshmen and upper-class students; write recommendation letters for academic and professional opportunities, School of Business (2023 - present) <br>
 
-
+<!--
 References
 ======
 - Dr. Dominick Salvatore <br>
@@ -223,7 +223,7 @@ Email: [ajofrancis@fordham.edu](mailto:ajofrancis@fordham.edu) <br>
 Associate Professor of Economics <br>
 Department of Economics, Fordham University <br>
 Email: [hepp@fordham.edu](mailto:hepp@fordham.edu) <br>
-
+-->
 
 <!--
 {% include base_path %}
