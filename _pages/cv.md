@@ -191,7 +191,7 @@ University and Department Services
 -- Founder-Director, Global Economy and Business Forum (2023 - present) <br>
 -- Advise freshmen and upper-class students; write recommendation letters for academic and professional opportunities, School of Business (2023 - present) <br>
 
-<!--
+
 References
 ======
 - Dr. Dominick Salvatore <br>
@@ -205,7 +205,7 @@ Department of Economics, Fordham University <br>
 Email: [rengifomina@fordham.edu](mailto:rengifomina@fordham.edu) <br>
 
 - Dr. Hrishikesh D. Vinod <br>
-Professor of Economics <br>
+Professor of Economics Emeritus <br>
 Department of Economics, Fordham University <br>
 Email: [vinod@fordham.edu](mailto:vinod@fordham.edu) <br>
 
@@ -219,11 +219,11 @@ Associate Professor of Economics & Department Chair <br>
 Department of Economics, Fordham University <br>
 Email: [ajofrancis@fordham.edu](mailto:ajofrancis@fordham.edu) <br>
 
-- Dr. Jay S. Surti <br>
-Division Chief - Financial Supervision and Regulation <br>
-Monetary & Capital Markets Department, International Monetary Fund <br>
-Email: [JSurti@imf.org](mailto:JSurti@imf.org) <br>
--->
+- Dr. Ralf Hepp <br>
+Associate Professor of Economics <br>
+Department of Economics, Fordham University <br>
+Email: [hepp@fordham.edu](mailto:hepp@fordham.edu) <br>
+
 
 <!--
 {% include base_path %}
