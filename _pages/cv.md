@@ -108,7 +108,7 @@ Working Papers
 ======
 - **The Impact of Tariffs on Inflation and Household Budgets Across Income Levels and Regions in the US.** (w/ Erick W. Rengifo). <br> 
 
-Work in Progress
+Work in Progress - Papers
 ======
 - **FinTech and Order Book Dynamics: Analyzing Liquidity and Volatility in Regular vs. Extended Market Hours.** (w/ Erick W. Rengifo). <br>
 - **FX Markets Order Book Dynamics and Technical Analysis During the Covid-19 Crisis.** (w/ Daniel Svogun). <br>
