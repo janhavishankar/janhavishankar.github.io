@@ -26,51 +26,51 @@ Financial Economics, International Economics, Applied Econometrics, Economic Dev
 
 Education
 ======
-* PhD in Econometrics and Quantitative Economics, 2018 - 2023 <br>
-  Fordham University Graduate School of Arts and Sciences, New York, NY, USA <br>
+* Fordham University Graduate School of Arts and Sciences, New York, NY, USA <br>
+  PhD in Econometrics and Quantitative Economics, 2018 - 2023 <br>
   Fields: Financial Economics, International Economics, Applied Econometrics <br>
   Dissertation: Topics on Fractional Trading and Trade-Growth Nexus <br>
   Advisors: Dr. Dominick Salvatore (Co-chair), Dr. Erick W. Rengifo (Co-chair), Dr. Hrishikesh D. Vinod, Dr. Duncan James <br>
   MA in Econometrics and Quantitative Economics, 2018 - 2020 <br>
   Advanced Certificate in Financial Econometrics and Data Analysis, 2019 - 2020
        
-* MSc in Economics, 2014 - 2016 <br>
-  Symbiosis School of Economics, Pune, India <br>
+* Symbiosis School of Economics, Pune, India <br>
+  MSc in Economics, 2014 - 2016 <br>
   Specializations: International Trade and Finance, Applied Econometrics <br>
   Thesis: Trade-Growth Nexus: A Study of G20 Countries
   
-* BSc in Physics (Major), Mathematics, and Statistics, 2011 - 2014 <br>
-  Fergusson College, University of Pune, Pune, India <br>
+* Fergusson College, University of Pune, Pune, India <br>
+  BSc in Physics (Major), Mathematics, and Statistics, 2011 - 2014 <br>
   Thesis: Magnetohydrodynamics and Dynamo Theory
   
 
 Experience
 ======
-* Assistant Professor (tenure-track) - Department of Finance and Economics, Aug 2023 - present <br>
+* St. Bonaventure University - School of Business, St. Bonaventure, NY, USA <br>
+  Assistant Professor (tenure-track) - Department of Finance and Economics, Aug 2023 - present <br>
   Founder-Director, Global Economy and Business Forum, Aug 2023 - present <br>
-  St. Bonaventure University - School of Business, St. Bonaventure, NY, USA <br>
-
-* Graduate Research and Teaching Assistant to Prof. Dominick Salvatore, Aug 2018 - Jul 2023 <br>
-  Fordham University - Graduate School of Arts and Sciences, New York, NY, USA <br>
-
-* Research Intern (Fund Internship Program) - Financial Supervision and Regulation, Jun 2022 - Aug 2022 <br>
-  International Monetary Fund - Monetary and Capital Markets Department, Washington DC, USA <br>
+  
+* Fordham University - Graduate School of Arts and Sciences, New York, NY, USA <br>
+  Graduate Research and Teaching Assistant to Prof. Dominick Salvatore, Aug 2018 - Jul 2023 <br>
+  
+* International Monetary Fund - Monetary and Capital Markets Department, Washington DC, USA <br>
+  Research Intern (Fund Internship Program) - Financial Supervision and Regulation, Jun 2022 - Aug 2022 <br>
 -- Bond ETF Performance During the COVID-19 Crisis <br>
   
-* Research Intern - Cryptoasset and Blockchain Research, Jun 2020 - Aug 2020 <br>
-  University of Cambridge Judge Business School - Centre for Alternative Finance, Cambridge, UK (Remote) <br>
+* University of Cambridge Judge Business School - Centre for Alternative Finance, Cambridge, UK (Remote) <br>
+  Research Intern - Cryptoasset and Blockchain Research, Jun 2020 - Aug 2020 <br>
 -- Global Alternative Finance Benchmark Study, 3rd edition of Global Crypto Asset Benchmarking Study <br>
 
-* Associate - Business Performance and Advanced Analytics, Jun 2016 - Jul 2018 <br>
-  ZS, Pune, India <br>
+* ZS, Pune, India <br>
+  Associate - Business Performance and Advanced Analytics, Jun 2016 - Jul 2018 <br>
 -- Multi-channel Marketing (MCM), Key Drivers Analytics (KDA), Business Performance <br>
  
-* Research Intern - Data Analytics, Apr 2015 - Jun 2015 <br>
-  Symbiosis Centre for Management and Human Resource Development (SCMHRD), Pune, India <br>
+* Symbiosis Centre for Management and Human Resource Development (SCMHRD), Pune, India <br>
+  Research Intern - Data Analytics, Apr 2015 - Jun 2015 <br>
 -- Assessing retailers' fruits and vegetables procurement pattern in Pune city and developing an efficient framework for collection of fruits and vegetables from farmers and supplying them to the consumers <br>
  
-* Project Student - Galactic Dynamos, Dec 2012 - Jan 2014 <br>
-   Inter-University Centre for Astronomy and Astrophysics (IUCAA), Pune, India <br>
+* Inter-University Centre for Astronomy and Astrophysics (IUCAA), Pune, India <br>
+  Project Student - Galactic Dynamos, Dec 2012 - Jan 2014 <br>
 -- Magnetohydrodynamics and Dynamo Theory <br>
 
 Grants and Professional Services
