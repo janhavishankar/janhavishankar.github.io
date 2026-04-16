@@ -46,7 +46,7 @@ Education
 
 Experience
 ======
-* Assistant Professor - Department of Finance and Economics, Aug 2023 - present <br>
+* Assistant Professor (tenure-track) - Department of Finance and Economics, Aug 2023 - present <br>
   Founder-Director, Global Economy and Business Forum, Aug 2023 - present <br>
   St. Bonaventure University - School of Business, St. Bonaventure, NY, USA <br>
 
