@@ -186,6 +186,7 @@ University and Department Services
 - At St. Bonaventure University <br>
 -- Member, SBU Institutional Review Board (2025 - present) <br>
 -- Member, SBU Constitution Committee (2025 - present) <br>
+-- Member, Students Awards Committee (2025 - present) <br>
 -- Member, Organizing Committee - School of Business Annual Retreat (2024 - present) <br>
 -- Member, Curriculum Committee, School of Business (2024 - present) <br>
 -- Member, Faculty Search Committee - Finance, School of Business (2024, 2025) <br>
