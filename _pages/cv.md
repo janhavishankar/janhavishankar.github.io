@@ -47,6 +47,7 @@ Education
 Experience
 ======
 * Assistant Professor - Department of Finance and Economics, Aug 2023 - present <br>
+  Founder-Director, Global Economy and Business Forum, Aug 2023 - present <br>
   St. Bonaventure University - School of Business, St. Bonaventure, NY, USA <br>
 
 * Graduate Research and Teaching Assistant to Prof. Dominick Salvatore, Aug 2018 - Jul 2023 <br>
