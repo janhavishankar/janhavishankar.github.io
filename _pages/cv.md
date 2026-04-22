@@ -49,7 +49,7 @@ Experience
 * St. Bonaventure University - School of Business, St. Bonaventure, NY, USA <br>
   Assistant Professor (tenure-track), Department of Finance and Economics, Aug 2023 - present <br>
   Founder-Director, Global Economy and Business Forum, Aug 2023 - present <br>
-  
+   
 * Fordham University - Graduate School of Arts and Sciences, New York, NY, USA <br>
   Graduate Research and Teaching Assistant to Prof. Dominick Salvatore, Aug 2018 - Jul 2023 <br>
   
