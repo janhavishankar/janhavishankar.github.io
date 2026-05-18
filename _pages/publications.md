@@ -19,7 +19,7 @@ Publications
 
 Working Papers
 ======
-- **The Impact of Tariffs on Inflation and Household Budgets Across Income Levels and Regions in the US.** (w/ Erick W. Rengifo). Submitted, Under Review. [[SSRN_WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5287560)]. <br>
+- **The Impact of Tariffs and Supply Chain Disruption on Inflation and Household Budgets Across Income Levels and Regions in the US.** (w/ Erick W. Rengifo). Submitted, Under Review. [[SSRN_WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5287560)]. <br>
 *Abstract:* This paper examines the impact of tariffs on inflation and household budgets across income levels and regions in the United States. The analysis focuses on food and beverages, which are necessity goods that disproportionately burden low- and middle-income households. Using WTO trade data and the U.S. Consumer Expenditure Survey, we identify key trading partners and analyze how tariff-induced food price increases affect consumption. Our analysis shows that lower-income households spend a significantly larger share of their budget on food while consuming only one-third of the quantity of top earners. We use Cobb-Douglas and Constant Elasticity of Substitution (CES) utility functions to simulate the effects of 5% and 10% price increases. Results show that utility losses for the lowest income quintile are up to 50% higher than for the highest quintile. These findings highlight the regressive nature of tariffs and the need for targeted policy measures. <br> 
 
 <!-- - **Bond ETF Performance During the COVID-19 Crisis.** (w/ Jay Surti). <br>
