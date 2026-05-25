@@ -77,8 +77,8 @@ Grants and Professional Services
 ======
 * Member of the Board of Directors, International Trade and Finance Association (2025 - present) <br>
 * Member of the Board of Directors, New York State Economics Association (2024 - present) <br>
-* SBU Faculty Summer Research Grant, St. Bonaventure University (2024, 2025) <br>
-* SBU Faculty Travel Grant, St. Bonaventure University (2023, 2024, 2025) <br>
+* SBU Faculty Summer Research Fund, St. Bonaventure University (2024, 2025) <br>
+* SBU Faculty Travel Fund, St. Bonaventure University (2023, 2024, 2025) <br>
 * Fordham Graduate Student Research Support and Professional Development Grant, Fordham University (2023) <br>
 
 Awards, Honors, and Fellowships
