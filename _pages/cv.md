@@ -122,6 +122,8 @@ Work in Progress - Papers
 
 Talks and Presentations
 ======
+- ITFA 2026 Conference (Session: Rules-Based Trade Governance, Policy Shocks, and Non-Tariff Barriers), June 2026 <br>
+- FinteQC 2026 Conference (Session: Market Dynamics: Microstructure, Credit and Crypto), June 2026 <br>
 - NYSEA 2025 Conference (Session: International Economics and Finance), Nov 2025 <br>
 - ITFA 2025 Conference (Session: Trade and Geopolitics), May 2025 <br>
 - NYSEA 2024 Conference (Session: Financial Economics), Oct 2024 <br>
