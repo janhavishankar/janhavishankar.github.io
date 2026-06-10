@@ -122,28 +122,29 @@ Work in Progress - Papers
 
 Talks and Presentations
 ======
-<!-- - ITFA 2026 Conference (Session: Rules-Based Trade Governance, Policy Shocks, and Non-Tariff Barriers), June 2026 <br>
-- FinteQC 2026 Conference (Session: Market Dynamics: Microstructure, Credit and Crypto), June 2026 <br> -->
-- NYSEA 2025 Conference (Session: International Economics and Finance), Nov 2025 <br>
-- ITFA 2025 Conference (Session: Trade and Geopolitics), May 2025 <br>
-- NYSEA 2024 Conference (Session: Financial Economics), Oct 2024 <br>
-- NYSEA 2024 Conference (Session: International Economics), Oct 2024 <br>
-- NYSEA 2023 Conference (Session: Financial Economics), Oct 2023 <br>
-- NYSEA 2023 Conference (Session: Politics, Trade and Growth), Oct 2023 <br>
-- FFEA-WPI Finance Conference on Fintech for inclusivity, growth, and the future, Oct 2023 <br>
-- World Finance Conference 2023 (Session: Market Microstructure), Aug 2023 <br>
-- SQA-CQA 2023 Trading Day Conference, Jun 2023 <br>
-- St. Bonaventure University School of Business, Mar 2023 <br>
-- Fordham Fall 2022 Finance Workshop, Nov 2022 <br>
-- NYSEA 2022 Conference (Session: Finance), Oct 2022 <br>
-- IMF Monetary & Capital Markets Policy Forum, Aug 2022 <br>
-- FRL 2022 CEMLA Conference on New Advances in International Finance, Apr 2022 <br>
-- Fordham Fall 2021 Finance Workshop, Nov 2021 <br>
-- Fordham Spring 2021 Macro/International Finance Workshop, May 2021 <br>
+- ITFA 2026 Conference (Session: Rules-Based Trade Governance, Policy Shocks, and Non-Tariff Barriers), June 2026 (Poznan, Poland) <br>
+- FinteQC 2026 Conference (Session: Market Dynamics: Microstructure, Credit and Crypto), June 2026 (Montreal, Canada) <br>
+- NYSEA 2025 Conference (Session: International Economics and Finance), Nov 2025 (Rochester, NY, USA) <br>
+- ITFA 2025 Conference (Session: Trade and Geopolitics), May 2025 (Fairfield, CT, USA) <br>
+- NYSEA 2024 Conference (Session: Financial Economics), Oct 2024 (Rochester, NY, USA) <br>
+- NYSEA 2024 Conference (Session: International Economics), Oct 2024 (Rochester, NY, USA) <br>
+- NYSEA 2023 Conference (Session: Financial Economics), Oct 2023 (New York, NY, USA) <br>
+- NYSEA 2023 Conference (Session: Politics, Trade and Growth), Oct 2023 (New York, NY, USA) <br>
+- FFEA-WPI Finance Conference on Fintech for inclusivity, growth, and the future, Oct 2023 (Worcester, MA, USA) <br>
+- World Finance Conference 2023 (Session: Market Microstructure), Aug 2023 (Online) <br>
+- SQA-CQA 2023 Trading Day Conference, Jun 2023 (New York, NY, USA) <br>
+- St. Bonaventure University School of Business, Mar 2023 (St. Bonaventure, NY, USA) <br>
+- Fordham Fall 2022 Finance Workshop, Nov 2022 (New York, NY, USA) <br>
+- NYSEA 2022 Conference (Session: Finance), Oct 2022 (New York, NY, USA) <br>
+- IMF Monetary & Capital Markets Policy Forum, Aug 2022 (Washington DC, USA) <br>
+- FRL 2022 CEMLA Conference on New Advances in International Finance, Apr 2022 (Online) <br>
+- Fordham Fall 2021 Finance Workshop, Nov 2021 (New York, NY, USA) <br>
+- Fordham Spring 2021 Macro/International Finance Workshop, May 2021 (New York, NY, USA) <br>
 
 Discussant, Session Chair, and Referee Activities
 ======
 * Discussant <br>
+-- "Do Digital Trade Commitments Lead to Inter-modal Substitution of Services Exports: A Study of Selected Services" by Deeparghya Mukherjee at the ITFA 2026 Conference, June 2026 <br>
 -- "The Global Financial Cycle and High-Frequency Rmb Exchange Rate Dynamics" by Xingwang Qian, Yin-Wong Cheung, & Zhitao Lin at the NYSEA 2025 Conference, Nov 2025 <br>
 -- “Beyond the Balance: An Intertemporal Perspective on the Current Accounts of OECD Countries” by Aleksandar Stojkov, Thierry Warin, & Nikola Tuneski at the ITFA 2025 Conference, May 2025 <br>
 -- "Regulation and Performance of Rural Banks in a Developing Nation" by Joseph Kwadwo Tuffour & Daniel Akuriba Adongo at the NYSEA 2024 Conference, Oct 2024 <br>
