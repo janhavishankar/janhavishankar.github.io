@@ -144,20 +144,20 @@ Talks and Presentations
 Discussant, Session Chair, and Referee Activities
 ======
 * Discussant <br>
--- "Do Digital Trade Commitments Lead to Inter-modal Substitution of Services Exports: A Study of Selected Services" by Deeparghya Mukherjee at the ITFA 2026 Conference, June 2026 <br>
--- "The Global Financial Cycle and High-Frequency Rmb Exchange Rate Dynamics" by Xingwang Qian, Yin-Wong Cheung, & Zhitao Lin at the NYSEA 2025 Conference, Nov 2025 <br>
--- “Beyond the Balance: An Intertemporal Perspective on the Current Accounts of OECD Countries” by Aleksandar Stojkov, Thierry Warin, & Nikola Tuneski at the ITFA 2025 Conference, May 2025 <br>
--- "Regulation and Performance of Rural Banks in a Developing Nation" by Joseph Kwadwo Tuffour & Daniel Akuriba Adongo at the NYSEA 2024 Conference, Oct 2024 <br>
--- "International Trade by Technology Intensity and the Language Aspect" by Lev Vlasenko at the NYSEA 2024 Conference, Oct 2024 <br>
--- "Correlation Analysis of Bitcoin and Inflation Indicators" by Joseph Cheng at the NYSEA 2023 Conference, Oct 2023 <br>
--- "Forecasting Stock Market Liquidity: A LSTM-Based Approach" by Byomkesh Debata, Syed Ahzam Tariq, Gaurav G Petwe, & Asis Kumar Sahu at the World Finance Conference 2023, Aug 2023 <br>
--- “Adding Bitcoin to a Portfolio: A Cautionary Tale” by Joan Nix & Bruce McNevin at the NYSEA 2022 Conference, Oct 2022 <br>
--- “Can fake news impact the stock market? Evidence from politicians’ statements” by Rodrigo de Oliveria Leite, Matheus Moura, & Patrick Behr at the FRL 2022 CEMLA Conference on New Advances in International Finance, Apr 2022 <br>
+-- "Do Digital Trade Commitments Lead to Inter-modal Substitution of Services Exports: A Study of Selected Services" by Deeparghya Mukherjee at the ITFA 2026 Conference, June 2026 (Poznan, Poland) <br>
+-- "The Global Financial Cycle and High-Frequency Rmb Exchange Rate Dynamics" by Xingwang Qian, Yin-Wong Cheung, & Zhitao Lin at the NYSEA 2025 Conference, Nov 2025 (Rochester, NY, USA) <br>
+-- “Beyond the Balance: An Intertemporal Perspective on the Current Accounts of OECD Countries” by Aleksandar Stojkov, Thierry Warin, & Nikola Tuneski at the ITFA 2025 Conference, May 2025 (Fairfield, CT, USA) <br>
+-- "Regulation and Performance of Rural Banks in a Developing Nation" by Joseph Kwadwo Tuffour & Daniel Akuriba Adongo at the NYSEA 2024 Conference, Oct 2024 (New York, NY, USA) <br>
+-- "International Trade by Technology Intensity and the Language Aspect" by Lev Vlasenko at the NYSEA 2024 Conference, Oct 2024 (New York, NY, USA) <br>
+-- "Correlation Analysis of Bitcoin and Inflation Indicators" by Joseph Cheng at the NYSEA 2023 Conference, Oct 2023 (New York, NY, USA) <br>
+-- "Forecasting Stock Market Liquidity: A LSTM-Based Approach" by Byomkesh Debata, Syed Ahzam Tariq, Gaurav G Petwe, & Asis Kumar Sahu at the World Finance Conference 2023, Aug 2023 (Online) <br>
+-- “Adding Bitcoin to a Portfolio: A Cautionary Tale” by Joan Nix & Bruce McNevin at the NYSEA 2022 Conference, Oct 2022 (New York, NY, USA) <br>
+-- “Can fake news impact the stock market? Evidence from politicians’ statements” by Rodrigo de Oliveria Leite, Matheus Moura, & Patrick Behr at the FRL 2022 CEMLA Conference on New Advances in International Finance, Apr 2022 (Online) <br>
 
 * Session Chair <br>
--- "Pedagogical Research" session at the NYSEA 2023 Conference, Oct 2023 <br>
--- "Financial and Economic Uncertainty, and Fintech" session at the FFEA-WPI 2023 Finance Conference, Oct 2023 <br>
--- "Market Microstructure" session at the World Finance Conference 2023, Aug 2023 <br>
+-- "Pedagogical Research" session at the NYSEA 2023 Conference, Oct 2023 (New York, NY, USA) <br>
+-- "Financial and Economic Uncertainty, and Fintech" session at the FFEA-WPI 2023 Finance Conference, Oct 2023 (Worcester, MA, USA) <br>
+-- "Market Microstructure" session at the World Finance Conference 2023, Aug 2023 (Online) <br>
 
 * Referee Services <br>
 -- Cogent Economics & Finance <br>
