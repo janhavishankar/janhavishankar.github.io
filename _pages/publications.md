@@ -27,8 +27,8 @@ Working Papers
 
 Work in Progress - Papers
 ======
+- **The Impact of Tariffs and Supply Chain Disruption on Business Costs and Market Concentration for Small Firm in the US.** (w/ Erick W. Rengifo). <br>
 - **FinTech and Order Book Dynamics: Analyzing Liquidity and Volatility in Regular vs. Extended Market Hours.** (w/ Erick W. Rengifo). <br>
-- **The Impact of Tariffs and Supply Chain Disruption on Business Costs and Market Survival Across Firm Sizes in the US.** (w/ Erick W. Rengifo). <br>
 - **Regime Identification in the Limit Order Book in the FinTech Era.** (w/ Rossen Trendafilov & Erick W. Rengifo). <br>
 - **FX Markets Order Book Dynamics and Technical Analysis During the Covid-19 Crisis.** (w/ Daniel Svogun). <br>
 - **The Impact of Fractional Trading on Risk Aversion and Wealth Allocation Behavior for Non-professional Investors under the Prospect Theory Framework.** (w/ Erick W. Rengifo). <br>
