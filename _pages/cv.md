@@ -111,6 +111,10 @@ Working Papers
 - **The Impact of Tariffs and Supply Chain Disruption on Inflation and Household Budgets Across Income Levels and Regions in the US.** (w/ Erick W. Rengifo). <br>
 - **The Impact of Tariffs and Supply Chain Disruption on Business Costs and Market Concentration for Small Firms in the US.** (w/ Erick W. Rengifo). <br>
 
+Work in Progress - Books
+======
+- **Introduction to International Economics.** (w/ Dominick Salvatore). <br>
+
 Work in Progress - Papers
 ======
 - **FinTech and Order Book Dynamics: Analyzing Liquidity and Volatility in Regular vs. Extended Market Hours.** (w/ Erick W. Rengifo). <br>
