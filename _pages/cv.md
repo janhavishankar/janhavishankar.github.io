@@ -180,6 +180,7 @@ Teaching
 ======
 - At St. Bonaventure University <br>
 -- MBA 696IE. International Economics and Business <br>
+-- FIN 499P. Data Analytics / Python for Finance <br>
 -- FIN 322. Financial Institutions and Markets <br>
 -- FIN 321. Money and Banking <br>
 -- QMX 212. Statistical Applications for Business <br>
