@@ -10,7 +10,7 @@ redirect_from:
 
 At St. Bonaventure University
 ======
--- MBA 696IE. International Economics and Business <br>
+-- MBA 696IE. International Economics: A Global Business Perspective <br>
 -- FIN 499P. Data Analytics / Python for Finance <br>
 -- FIN 322. Financial Institutions and Markets <br>
 -- FIN 321. Money and Banking <br>
