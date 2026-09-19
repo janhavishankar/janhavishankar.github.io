@@ -11,6 +11,8 @@ redirect_from:
 At St. Bonaventure University
 ======
 -- MBA 696IE. International Economics: A Global Business Perspective <br>
+-- MBA 696FT. FinTech: Economic Transformations and Global Business <br>
+-- FIN 499Q. Algorithmic Trading Using Python <br>
 -- FIN 499P. Data Analytics / Python for Finance <br>
 -- FIN 322. Financial Institutions and Markets <br>
 -- FIN 321. Money and Banking <br>
