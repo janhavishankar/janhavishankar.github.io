@@ -132,8 +132,8 @@ Work in Progress - Papers
 
 Talks and Presentations
 ======
-- ITFA 2026 Conference (Session: Rules-Based Trade Governance, Policy Shocks, and Non-Tariff Barriers), June 2026 (Poznan, Poland) <br>
-- FinteQC 2026 Conference (Session: Market Dynamics: Microstructure, Credit and Crypto), June 2026 (Montreal, Canada) <br>
+- ITFA 2026 Conference (Session: Rules-Based Trade Governance, Policy Shocks, and Non-Tariff Barriers), Jun 2026 (Poznan, Poland) <br>
+- FinteQC 2026 Conference (Session: Market Dynamics: Microstructure, Credit and Crypto), Jun 2026 (Montreal, Canada) <br>
 - NYSEA 2025 Conference (Session: International Economics and Finance), Nov 2025 (Rochester, NY, USA) <br>
 - ITFA 2025 Conference (Session: Trade and Geopolitics), May 2025 (Fairfield, CT, USA) <br>
 - NYSEA 2024 Conference (Session: Financial Economics), Oct 2024 (Rochester, NY, USA) <br>
@@ -154,7 +154,7 @@ Talks and Presentations
 Discussant, Session Chair, and Referee Activities
 ======
 * Discussant <br>
--- "Do Digital Trade Commitments Lead to Inter-modal Substitution of Services Exports: A Study of Selected Services" by Deeparghya Mukherjee at the ITFA 2026 Conference, June 2026 (Poznan, Poland) <br>
+-- "Do Digital Trade Commitments Lead to Inter-modal Substitution of Services Exports: A Study of Selected Services" by Deeparghya Mukherjee at the ITFA 2026 Conference, Jun 2026 (Poznan, Poland) <br>
 -- "The Global Financial Cycle and High-Frequency Rmb Exchange Rate Dynamics" by Xingwang Qian, Yin-Wong Cheung, & Zhitao Lin at the NYSEA 2025 Conference, Nov 2025 (Rochester, NY, USA) <br>
 -- “Beyond the Balance: An Intertemporal Perspective on the Current Accounts of OECD Countries” by Aleksandar Stojkov, Thierry Warin, & Nikola Tuneski at the ITFA 2025 Conference, May 2025 (Fairfield, CT, USA) <br>
 -- "Regulation and Performance of Rural Banks in a Developing Nation" by Joseph Kwadwo Tuffour & Daniel Akuriba Adongo at the NYSEA 2024 Conference, Oct 2024 (New York, NY, USA) <br>
@@ -183,6 +183,8 @@ Teaching
 ======
 - At St. Bonaventure University <br>
 -- MBA 696IE. International Economics: A Global Business Perspective <br>
+-- MBA 696FT. FinTech: Economic Transformations and Global Business <br>
+-- FIN 499Q. Algorithmic Trading Using Python <br>
 -- FIN 499P. Data Analytics / Python for Finance <br>
 -- FIN 322. Financial Institutions and Markets <br>
 -- FIN 321. Money and Banking <br>
