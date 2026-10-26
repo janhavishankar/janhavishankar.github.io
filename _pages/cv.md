@@ -132,8 +132,8 @@ Work in Progress - Papers
 
 Talks and Presentations
 ======
-- ASSA 2027 Annual Meeting (AEA Panel Session- From Efficiency to Resilience? Global Value Chains in an Era of Geoeconomic Realignment), Jan 2027 (scheduled) (Washington DC, USA)
-- NYSEA 2026 Conference (Session: International Economics and Development), Oct 2026 (Oneonta, NY, USA)
+- ASSA 2027 Annual Meeting (AEA Panel Session- From Efficiency to Resilience? Global Value Chains in an Era of Geoeconomic Realignment), Jan 2027 (scheduled) (Washington DC, USA) <br>
+- NYSEA 2026 Conference (Session: International Economics and Development), Oct 2026 (Oneonta, NY, USA) <br>
 - ITFA 2026 Conference (Session: Rules-Based Trade Governance, Policy Shocks, and Non-Tariff Barriers), Jun 2026 (Poznan, Poland) <br>
 - FinteQC 2026 Conference (Session: Market Dynamics: Microstructure, Credit and Crypto), Jun 2026 (Montreal, Canada) <br>
 - NYSEA 2025 Conference (Session: International Economics and Finance), Nov 2025 (Rochester, NY, USA) <br>
@@ -156,7 +156,7 @@ Talks and Presentations
 Discussant, Session Chair, and Referee Activities
 ======
 * Discussant <br>
--- “Healthcare Trade in an Aging Europe” by Alishan Khan at the NYSEA 2026 Conference, Oct 2026 (Oneonta, NY, USA)
+-- “Healthcare Trade in an Aging Europe” by Alishan Khan at the NYSEA 2026 Conference, Oct 2026 (Oneonta, NY, USA) <br>
 -- "Do Digital Trade Commitments Lead to Inter-modal Substitution of Services Exports: A Study of Selected Services" by Deeparghya Mukherjee at the ITFA 2026 Conference, Jun 2026 (Poznan, Poland) <br>
 -- "The Global Financial Cycle and High-Frequency Rmb Exchange Rate Dynamics" by Xingwang Qian, Yin-Wong Cheung, & Zhitao Lin at the NYSEA 2025 Conference, Nov 2025 (Rochester, NY, USA) <br>
 -- “Beyond the Balance: An Intertemporal Perspective on the Current Accounts of OECD Countries” by Aleksandar Stojkov, Thierry Warin, & Nikola Tuneski at the ITFA 2025 Conference, May 2025 (Fairfield, CT, USA) <br>
@@ -168,7 +168,7 @@ Discussant, Session Chair, and Referee Activities
 -- “Can fake news impact the stock market? Evidence from politicians’ statements” by Rodrigo de Oliveria Leite, Matheus Moura, & Patrick Behr at the FRL 2022 CEMLA Conference on New Advances in International Finance, Apr 2022 (Online) <br>
 
 * Session Chair <br>
--- “From Efficiency to Resilience? Global Value Chains in an Era of Geoeconomic Realignment” panel session at the ASSA 2027 Conference, Jan 2027 (scheduled) (Washington DC, USA)
+-- “From Efficiency to Resilience? Global Value Chains in an Era of Geoeconomic Realignment” panel session at the ASSA 2027 Conference, Jan 2027 (scheduled) (Washington DC, USA) <br>
 -- "Pedagogical Research" session at the NYSEA 2023 Conference, Oct 2023 (New York, NY, USA) <br>
 -- "Financial and Economic Uncertainty, and Fintech" session at the FFEA-WPI 2023 Finance Conference, Oct 2023 (Worcester, MA, USA) <br>
 -- "Market Microstructure" session at the World Finance Conference 2023, Aug 2023 (Online) <br>
