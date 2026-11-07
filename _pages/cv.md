@@ -114,7 +114,7 @@ Conference Proceedings
 
 Working Papers
 ======
-- **The Impact of Tariffs and Supply Chain Disruption on Inflation and Household Budgets Across Income Levels and Regions in the US.** (w/ Erick W. Rengifo). <br>
+- **The Impact of the 2025–2026 U.S. Food Tariffs on the Subsistence Needs, the Distributional Burden and the role of the SNAP.** (w/ Erick W. Rengifo). <br>
 - **The Impact of Tariffs and Supply Chain Disruption on Business Costs and Market Concentration for Small Firms in the US.** (w/ Erick W. Rengifo). <br>
 
 Work in Progress - Books
